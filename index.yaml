@@ -3,7 +3,7 @@ entries:
   alfresco-content-services:
   - apiVersion: v1
     appVersion: 6.2.2
-    created: "2021-04-14T13:32:32.779693+02:00"
+    created: "2021-04-14T14:12:59.231629+02:00"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -44,7 +44,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-14T13:32:32.780631+02:00"
+    created: "2021-04-14T14:12:59.263093+02:00"
     description: A Helm chart for Kubernetes
     digest: d78afde34f025af3badc9036e9080a44bf05e6fcddb4807b7757f67c683433df
     name: helm-chart-test
@@ -52,4 +52,4 @@ entries:
     urls:
     - https://dickmuller.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-14T13:32:32.768311+02:00"
+generated: "2021-04-14T14:12:59.217451+02:00"
