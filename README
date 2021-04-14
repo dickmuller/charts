@@ -1,0 +1,6 @@
+
+Add repo in helm-chart-sources
+
+helm package helm-chart-sources/*
+
+helm repo index --url https://dickmuller.github.io/helm-chart/ .

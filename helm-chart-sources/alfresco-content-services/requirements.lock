@@ -1,0 +1,18 @@
+dependencies:
+- name: postgresql
+  repository: https://kubernetes-charts.storage.googleapis.com/
+  version: 0.9.3
+- name: alfresco-search
+  repository: https://kubernetes-charts.alfresco.com/stable
+  version: 1.0.3
+- name: alfresco-infrastructure
+  repository: https://kubernetes-charts.alfresco.com/stable
+  version: 4.1.1
+- name: alfresco-sync-service
+  repository: https://kubernetes-charts.alfresco.com/stable
+  version: 3.0.5
+- name: alfresco-adf-app
+  repository: https://kubernetes-charts.alfresco.com/stable
+  version: 2.2.0
+digest: sha256:1adce6439402562a1fa0759380bfdcda6db2ec2c7e4e0139a87a64778902fb2f
+generated: 2020-07-01T14:23:34.773892026Z
